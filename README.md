@@ -1,5 +1,5 @@
 # WADB - A simple switch for wireless ADB
-
+## req , 2.45 is the latest Ver support android4.0+ , after that  needs android 6.0
 ## Feature
 
 * Optimized to respond as quickly as possible
